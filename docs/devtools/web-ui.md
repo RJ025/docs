@@ -25,7 +25,7 @@ npm i
 For development, we'll add the API URL as local keploy server url running at http://localhost:8081
 
 ```shell
-export GATSBY_API_URL=http://localhost:8081/api
+export GATSBY_API_URL=http://localhost:6789/api
 ```
 
 Now let's start the Gatsby Server
